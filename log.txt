@@ -1,0 +1,48 @@
+Date and Time: 26-04-2022 14:36:12
+Tank name: Gibson
+From tank: (Only in transfer operation)
+What was done: refill
+Was operation successful: true
+Water before operation: 200
+Water after operation: 220
+
+Date and Time: 26-04-2022 14:36:15
+Tank name: Gibson
+From tank: (Only in transfer operation)
+What was done: refill
+Was operation successful: true
+Water before operation: 220
+Water after operation: 240
+
+Date and Time: 26-04-2022 14:36:16
+Tank name: Gibson
+From tank: (Only in transfer operation)
+What was done: refill
+Was operation successful: true
+Water before operation: 240
+Water after operation: 260
+
+Date and Time: 26-04-2022 14:38:43
+Tank name: Gibson
+From tank: (Only in transfer operation)
+What was done: refill
+Was operation successful: true
+Water before operation: 200
+Water after operation: 400
+
+Date and Time: 26-04-2022 14:38:45
+Tank name: Gibson
+From tank: (Only in transfer operation)
+What was done: pouring
+Was operation successful: true
+Water before operation: 400
+Water after operation: 200
+
+Date and Time: 26-04-2022 20:09:07
+Tank name: Gimbibib
+From tank: (Only in transfer operation)
+What was done: pouring
+Was operation successful: true
+Water before operation: 5545
+Water after operation: 3212
+
